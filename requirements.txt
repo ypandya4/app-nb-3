@@ -99,7 +99,6 @@ Pillow==8.3.1
 plotchecker==0.2.0
 plotly==5.3.1
 pluggy==0.13.1
-pmdarima==1.7.1
 pprintpp==0.4.0
 preshed==3.0.5
 prettytable==2.4.0
